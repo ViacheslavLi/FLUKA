@@ -1,0 +1,13 @@
+********************************************************************************
+* ..+....1....+....2....+....3....+....4....+....5....+....6....+....7..
+MATERIAL        25.0       0.0      7.21       0.0       0.0      0.0 MANGANES
+MATERIAL        24.0       0.0      7.19       0.0       0.0      0.0 CHROMIUM
+MATERIAL        42.0       0.0     10.28       0.0       0.0      0.0 MOLYBDEN
+MATERIAL        15.0       0.0      1.82       0.0       0.0      0.0 PHOSPHO
+MATERIAL        16.0       0.0      2.07       0.0       0.0      0.0 SULFUR
+MATERIAL         7.0       0.0       0.8       0.0       0.0      0.0 NITROGEN
+COMPOUND    -0.00030    CARBON   -0.0200  MANGANES   -0.0075  SILICON SS316L
+COMPOUND    -0.1800   CHROMIUM   -0.1400    NICKEL   -0.0300 MOLYBDEN SS316L
+COMPOUND    -0.00045   PHOSPHO  -0.00030    SULFUR   -0.0010 NITROGEN SS316L
+COMPOUND    -0.62045      IRON       0.0       0.0       0.0      0.0 SS316L
+********************************************************************************
